@@ -37,3 +37,7 @@ Later on, additional features can be added:
 The Kupon Protocol can be used by multiple front-ends for various use cases. For example, a web3 website that offers users discount coupons, or a mobile app that allows you to schedule a call with your favorite celebrity.
 
 Front-ends should also offer the way for an NFT holder to prove they really own the NFT in question. An NFT issuer could ask a holder to sign a certain message with their address through the front-end.
+
+### Discussion
+
+What do you think about Kupon Protocol? Please share your thoughts in this discussion: https://github.com/Kupon-Protocol/kupon-protocol-concept/discussions/1 
