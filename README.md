@@ -38,6 +38,15 @@ The Kupon Protocol can be used by multiple front-ends for various use cases. For
 
 Front-ends should also offer the way for an NFT holder to prove they really own the NFT in question. An NFT issuer could ask a holder to sign a certain message with their address through the front-end.
 
+### TODO
+
+In order to prepare a proof-of-concept, the following needs to be done:
+
+- Protocol specs (architecture, variables, functions)
+- [Smart contracts (Solidity, Hardhat)](https://github.com/Kupon-Protocol/kupon-protocol-contracts)
+- Front-end design (preferably Figma)
+- Web3 app (preferably Vue, ethers.js)
+
 ### Discussion
 
 What do you think about Kupon Protocol? Please share your thoughts in this discussion: https://github.com/Kupon-Protocol/kupon-protocol-concept/discussions/1 
