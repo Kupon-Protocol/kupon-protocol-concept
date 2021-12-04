@@ -33,6 +33,10 @@ Later on, additional features can be added:
   - The minting fee could be split between the Kupon DAO and the referrer (the front-end maintainer).
 - **POAPs:** Potential integration with poap.xyz
 
+<img src="https://user-images.githubusercontent.com/26535457/144697685-27781402-1194-4279-a869-3dbadf99a116.png"
+     alt="Kupon Inforgraphic"
+     style="align:center;" />
+
 ### User interfaces / front-ends
 
 The Kupon Protocol can be used by multiple front-ends for various use cases. For example, a web3 website that offers users discount coupons, or a mobile app that allows you to schedule a call with your favorite celebrity.
