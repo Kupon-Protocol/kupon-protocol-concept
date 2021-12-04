@@ -35,7 +35,7 @@ Later on, additional features can be added:
 
 <img src="https://user-images.githubusercontent.com/26535457/144697685-27781402-1194-4279-a869-3dbadf99a116.png"
      alt="Kupon Inforgraphic"
-     style="align:center;" />
+     style="  display: block;margin-left: auto;margin-right: auto;width: 50%;" />
 
 ### User interfaces / front-ends
 
