@@ -8,16 +8,19 @@ Kupon Protocol allows users to create **NFTs** that serve **as coupons** or **vo
 - An influencer can offer paid NFTs that allow each holder to schedule a 30-min video chat with the influencer.
 - A tutor can issue paid NFTs that represent tutoring time slots.
 
+> Do you want to participate? Check [this page](https://github.com/Kupon-Protocol/kupon-protocol-concept/blob/main/how-to-participate.md) to see how!
+
 ### Proof-of-concept
 
-A minimum viable version (with only the core features) would include the following:
+A [minimum viable version](https://kupon-protocol.netlify.app/) (with only the core features) has been built during a hackathon and includes the following:
 
 - A factory smart contract, through which a user can generate an ERC-721 contract
 - The ERC-721 contract has the following features:
   - **Name/title**: e.g. A 20% discount on product XYZ.
   - **Price for minting an NFT**: coupons should be free to mint, but vouchers usually have a certain price.
   - **Max supply**: how many tokens can be minted
-  - **Marking token as "used"**: Once used, the token should be marked as such so that it cannot be used again.
+  - **Claiming an NFT offer**: An NFT holder can claim the NFT's offer (this effectively burns the NFT)
+  - **Completing the service**: Once the service or product is provided to the holder, the NFT issuer can mark it as completed.
 
 ### Additional features
 
@@ -46,15 +49,10 @@ The Kupon Protocol can be used by multiple front-ends for various use cases. For
 
 Front-ends should also offer the way for an NFT holder to prove they really own the NFT in question. An NFT issuer could ask a holder to sign a certain message with their address through the front-end.
 
-### TODO
+### Useful links
 
-In order to prepare a proof-of-concept, the following needs to be done:
-
-- Protocol specs (architecture, variables, functions)
+- [Proof-of-concept web app (Mumbai testnet, Ropsten testnet)](https://kupon-protocol.netlify.app/)
 - [Smart contracts (Solidity, Hardhat)](https://github.com/Kupon-Protocol/kupon-protocol-contracts)
-- [Front-end design (Figma)](https://www.figma.com/file/wvsOnXrcH7g2MvP7qv8n86/Kupon-Website?node-id=0%3A1)
+- [Front-end design (Figma)](https://www.figma.com/file/wvsOnXrcH7g2MvP7qv8n86)
 - [Web3 app (Vue, ethers.js)](https://github.com/Kupon-Protocol/frontend)
-
-### Discussion
-
-What do you think about Kupon Protocol? Please share your thoughts in this discussion: https://github.com/Kupon-Protocol/kupon-protocol-concept/discussions/1 
+- [Discord (discussion)](https://discord.gg/TjTZaCZ4wY)
