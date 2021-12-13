@@ -1,4 +1,4 @@
-# Kupon Protocol: How To Participate?
+# Kupon Protocol: How To Contribute?
 
 Kupon Protocol is being developed by the Kupon community, a self-organizing group of people. The Kupon community mostly coordinates through [Discord](https://discord.gg/TjTZaCZ4wY) and [GitHub](https://github.com/Kupon-Protocol).
 
