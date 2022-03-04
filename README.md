@@ -27,7 +27,7 @@ A [minimum viable version](https://kupon-protocol.netlify.app/) (with only the c
 Later on, additional features can be added:
 
 - Token payments can be withheld within an NFT until the NFT is "used" (i.e. the NFT holder has received the service/product that the NFT has offered).
-- **Dispute resolution system**: Both NFT issuer and holder should be allowed to raise a dispute (something like Kleros could be integrated to resolve disputes).
+- **Dispute resolution system**: Both NFT issuer and holder should be allowed to raise a dispute (something like Kleros or [Celeste](https://1hive.gitbook.io/celeste) could be integrated to resolve disputes).
 - **Expiration date**: An issuer could set an expiration date for tokens. This can either be a relative date (e.g. 30 days after minting) or an absolute date (e.g. until the end of 2024). In addition, the issuer could have the possibility to extend the expiration date.
 - **Refunds**: If a token buyer changes their mind, they could be reimbursed (if NFT allows that).
 - **Metadata**: Metadata could include NFT description, image, terms & conditions, etc.
